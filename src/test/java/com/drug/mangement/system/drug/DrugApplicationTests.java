@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.drug.mangement.system.drug;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class DrugApplicationTests {
 
 	@Test
 	void contextLoads() {
